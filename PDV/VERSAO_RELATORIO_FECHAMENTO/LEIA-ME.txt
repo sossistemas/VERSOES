@@ -1,0 +1,1 @@
+1 - Ajustado o relatório de fechamento de caixa, detalhando o usuário que realizou cada operação (Abertura, recebimentos, Sangria, Suprimento).

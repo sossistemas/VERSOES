@@ -1,0 +1,1 @@
+1 - Versão com ajuste no relatório de notas de entrada quando selecionado para listar os itens.

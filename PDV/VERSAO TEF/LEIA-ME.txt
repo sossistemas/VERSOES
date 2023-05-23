@@ -1,0 +1,1 @@
+1 - Ajustado o recebimento por TEF quando for recebido o valor com dois cartões

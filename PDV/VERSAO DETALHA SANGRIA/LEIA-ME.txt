@@ -1,0 +1,1 @@
+1 - Versão que foi ajustado o detalhamento de Sangria e Suprimento no relatório de fechamento do caixa quanpdo marcado nas configurações.
