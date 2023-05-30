@@ -1,0 +1,1 @@
+1 - Versão com tratamento de bloqueio ao excluir itens após recebimento parcial via TEF.
