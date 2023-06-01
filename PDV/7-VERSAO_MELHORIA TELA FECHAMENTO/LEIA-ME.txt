@@ -1,0 +1,1 @@
+1- Melhoria na tela de fechamento de caixa e no relatório impresso quando marcado para detalhar sangria e quando alterar data do movimento.
